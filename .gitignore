@@ -2,6 +2,13 @@
 train
 test
 
+#no subimos las submissions
+submissions
+
+#no subimos los modelos entrenados
+*.pth
+*.tar
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
