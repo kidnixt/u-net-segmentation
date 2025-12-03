@@ -9,6 +9,14 @@ submissions
 *.pth
 *.tar
 
+#no subimos cosas de wandb
+wandb
+models
+kidnixt-ort
+
+#no subimos nuestros mejores modelos locales
+best_models
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
